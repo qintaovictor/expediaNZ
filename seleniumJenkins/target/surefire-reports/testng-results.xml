@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22403" started-at="2017-05-23T04:49:51Z" finished-at="2017-05-23T04:50:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22403" started-at="2017-05-23T04:49:51Z" finished-at="2017-05-23T04:50:14Z">
+      <class name="testcases.testcase1">
+        <test-method status="PASS" signature="testcase11()[pri:0, instance:testcases.testcase1@26ba2a48]" name="testcase11" duration-ms="22385" started-at="2017-05-23T16:49:51Z" finished-at="2017-05-23T16:50:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase11 -->
+      </class> <!-- testcases.testcase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
