@@ -1,1 +1,5 @@
-testcases\testcase1.class
+pageobject\login_page.class
+pageobject\home_page.class
+testcases\testcase2.class
+testcases\testcase.class
+testcases\testcase3.class
